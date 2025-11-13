@@ -290,4 +290,4 @@ Files prefixed with `demo` can be safely deleted. They are there to provide a st
 You can learn more about all of the offerings from TanStack in the [TanStack documentation](https://tanstack.com).
 
 # Live Preview
-Go through from this [Idea_Drop](idea-drop-4te64cbjv-mujaheeds-projects-5c1e6c9a.vercel.app).
+Go through from this [Idea_Drop](idea-drop-ui-chi.vercel.app).
