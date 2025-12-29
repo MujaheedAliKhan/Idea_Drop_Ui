@@ -106,6 +106,11 @@ Tests use Vitest. As a beginner, you can run tests to check if basic parts of th
 
 ---
 
+## 🌐 Live Demo 
+You can see Idea_Drop_UI through this Link (`idea-drop-ui-chi.vercel.app`)
+
+---
+
 ## Learn more / links
 
 - Project docs: check source files under `src/`.
@@ -115,8 +120,4 @@ Tests use Vitest. As a beginner, you can run tests to check if basic parts of th
 
 ---
 
-If you want, I can also:
-- Add a short CONTRIBUTING section to explain how to make a pull request.
-- Add quick screenshots or a short demo GIF to the README.
 
-Happy coding! 🎉
